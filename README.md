@@ -1,56 +1,34 @@
 # ✨ NeonGlass Context Menu ✨
 
-A modern, responsive **custom context menu** built purely with **HTML, CSS (Glassmorphism + Neon Glow effects)**, and **Vanilla JavaScript**.  
-It replaces the browser’s default right-click menu with a sleek, futuristic interface — perfect for **dark-themed web apps and dashboards**.
-
----
+The NeonGlass Context Menu is a modern, responsive custom right-click menu built entirely with HTML, CSS, and JavaScript. It replaces the default browser context menu with a stunning, glassy neon interface perfect for dark-themed web applications and dashboards.
 
 ## 🚀 Features
 
-### 🧊 Modern Aesthetics
-Beautiful **Glassmorphism** (frosted glass) combined with a **Neon Glow** outline for a futuristic look.
+Modern Aesthetics  
+Implements a smooth Glassmorphism effect combined with a subtle Neon Glow for a futuristic interface design.
 
-### 🎨 Dynamic Customization
-Includes a working **RGB color picker** section, allowing users to **dynamically change the glow color** of the menu using interactive sliders.
+Dynamic Customization  
+Includes functional RGB sliders that allow users to dynamically change the menu’s glow color and the accent indicator in real time.
 
-### 💠 Professional Icons
-Uses **Font Awesome 6** for scalable, vector-based navigation icons — ensuring a crisp and consistent design across all screens.
+Professional Icons  
+Uses Font Awesome 6 for pixel-perfect, scalable vector icons in the navigation section.
 
-### 🧭 Responsive Centering
-The custom menu automatically appears **perfectly centered on the screen** (not at the cursor), maintaining visual balance across all devices.
+Responsive Centering  
+The menu appears automatically in the exact center of the screen when right-clicked, adapting to all screen sizes.
 
-### 🧱 Clean Structure
-Simplified **HTML/CSS structure**, removing unnecessary input elements and focusing on the **core navigation and styling logic**.
-
----
+Clean and Minimal Structure  
+A lightweight, organized code structure focused purely on navigation, styling, and dynamic behavior.
 
 ## 🛠️ Tech Stack
 
-| Component | Purpose | Details |
-|------------|----------|----------|
-| **HTML5** | Structure | Semantic markup defining the menu and content layout. |
-| **CSS3** | Styling | Implements `backdrop-filter` for glassmorphism and `box-shadow` for neon glow. |
-| **JavaScript (ES6)** | Interactivity | Handles right-click events and dynamic menu centering logic. |
-| **Font Awesome 6** | Icons | Used for navigation and UI icons for a polished look. |
-
----
+HTML5 – Used for the structural layout and semantic elements.  
+CSS3 – Powers the design through backdrop-filter, blur effects, and glowing neon shadows.  
+JavaScript – Handles user interactions, right-click events, and dynamic menu positioning.  
+Font Awesome – Provides professional icons for a visually enhanced UI.
 
 ## 📦 How to Use
 
-1. **Save the Code**  
-   Copy and save the full source code into a file named `index.html`.
-
-2. **Open in Browser**  
-   Open the file in any modern browser — Chrome, Firefox, Edge, or Brave.
-
-3. **Activate the Menu**  
-   Right-click **anywhere** on the page.  
-   The custom context menu will appear **exactly in the center** of your screen.
-
-4. **Customize the Glow**  
-   Adjust the **R, G, and B** sliders in the color picker to change the menu’s neon glow color in real-time.
-
----
-
-  transform: translate(-50%, -50%);
-}
+Save the complete source code in a single file named `index.html`.  
+Open the file in any modern browser such as Chrome or Firefox.  
+Right-click anywhere on the page to activate the NeonGlass Context Menu.  
+Use the RGB sliders to adjust the neon glow color live on the screen.
