@@ -28,7 +28,7 @@ Font Awesome – Provides professional icons for a visually enhanced UI.
 
 ## 📦 How to Use
 
-Save the complete source code in a single file named `index.html`.  
+Save the complete source code in a folder named `Neon Glass Context Menu`.  
 Open the file in any modern browser such as Chrome or Firefox.  
 Right-click anywhere on the page to activate the NeonGlass Context Menu.  
 Use the RGB sliders to adjust the neon glow color live on the screen.
